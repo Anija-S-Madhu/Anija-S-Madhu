@@ -21,13 +21,13 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Engineering (Data Science) student
-- 💻 Interested in **Software Development, Data Science & Artificial Intelligence**
-- 🐍 Currently working with **Python, Flask and MySQL**
-- 🤖 Exploring **Machine Learning, Computer Vision and AI**
-- 🌐 Interested in building practical and impactful projects
-- 🚀 Love participating in **Hackathons, Technical Events and Workshops**
-- 📚 Always learning new technologies and improving my development skills
+* 🎓 B.Tech Computer Science & Engineering (Data Science) student
+* 💻 Interested in Software Development, Artificial Intelligence and Data Science
+* 🐍 Building applications using Python, Flask and MySQL
+* 🤖 Exploring Machine Learning, Computer Vision and AI-powered applications
+* 🛡️ Interested in cybersecurity, intelligent automation and practical problem-solving
+* 🚀 Enthusiastic about hackathons, technical events and collaborative projects
+* 📚 Always learning, experimenting and building something new
 
 ---
 
@@ -39,73 +39,108 @@
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js" />
 </p>
 
-### Frameworks & Technologies
+### Frameworks & Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=flask,mysql,git,github,vscode" />
 </p>
 
-### Data Science & AI
+### Areas of Interest
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Currently exploring:**
-
-`Machine Learning` • `Computer Vision` • `Artificial Intelligence` • `Data Science`
+`Artificial Intelligence` · `Machine Learning` · `Data Science` · `Computer Vision` · `Web Development` · `Cybersecurity`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ RailGuard-X
-**AI-Powered Railway Track Component Inspection System**
+### 🧠 1. NOVA — AI Study Planner & Question Paper Generator
 
-An AI-based railway inspection system designed to detect and analyze railway track component defects using computer vision and intelligent analysis.
+An AI-powered academic assistance platform designed to help students organize their studies and prepare for examinations.
 
-**Focus:**  
-`Computer Vision` `AI` `Object Detection` `Image Processing`
+**Key Features**
 
----
+* 📚 Study planning and subject management
+* 📝 AI-powered question paper generation
+* 🎯 Exam preparation and academic productivity
+* 📊 Study progress tracking
+* 🤖 AI-assisted learning support
 
-### 🧠 AI Semester Survival Dashboard
-
-A smart academic dashboard designed to help students manage and analyze:
-
-- 📊 Attendance
-- 📝 Internal Marks
-- 📚 Assignments
-- 📅 Exam Calendar
-- 🤖 AI-based Academic Analysis
-- 🎯 Semester Performance Simulation
-
-**Tech:** `Python` `Flask` `MySQL` `AI`
+**Tech Stack:** `Python` `Flask` `SQLite` `Google Gemini API`
 
 ---
 
-### 👁️ FaceMesh & Drowsiness Detection
+### 😴 2. Drowsiness Detection & Alert System
 
-A Python-based computer vision project featuring:
+A computer vision-based system designed to monitor facial cues and identify potential signs of drowsiness.
 
-- 👀 Blink Detection
-- 😊 Smile Detection
-- 🧑 Face Mesh
-- 🧭 Head Pose Estimation
-- 😴 Drowsiness Detection
+**Key Features**
 
-**Tech:** `Python` `MediaPipe` `Computer Vision`
+* 👁️ Eye and blink monitoring
+* 😴 Drowsiness detection
+* 🚨 Alert mechanism for detected drowsiness
+* 🧑 Facial landmark analysis
+* ⚡ Real-time monitoring capabilities
+
+**Tech Stack:** `Python` `OpenCV` `MediaPipe` `Computer Vision`
+
+---
+
+### ⌨️ 3. AI Virtual Keyboard
+
+An innovative virtual keyboard concept that enables touch-free computer interaction through hand gestures and computer vision.
+
+**Key Features**
+
+* ✋ Hand landmark tracking
+* 👆 Finger gesture recognition
+* ⌨️ Virtual key interaction
+* 🖥️ On-screen keyboard interface
+* ⚡ Touch-free typing interaction
+
+**Tech Stack:** `Python` `OpenCV` `MediaPipe` `Computer Vision`
+
+---
+
+### 🛡️ 4. Cybersecurity Log Analysis Using Hadoop
+
+A big-data cybersecurity project that analyzes the UNSW-NB15 network traffic dataset using K-Means clustering to identify network activity patterns and potential anomalies.
+
+**Key Features**
+
+* 📂 Network traffic dataset analysis
+* 🧮 K-Means clustering for pattern discovery
+* 🔍 Cluster-based anomaly analysis
+* 🐘 Hadoop and HDFS integration
+* 📊 Web-based cybersecurity monitoring dashboard
+
+**Tech Stack:** `Python` `Pandas` `Scikit-learn` `Hadoop` `HDFS` `MapReduce` `Flask`
+
+---
+
+### 📊 5. AI Semester Survival Dashboard
+
+A student-focused academic dashboard designed to organize semester activities and help monitor academic performance.
+
+**Key Features**
+
+* 📅 Exam calendar and academic planning
+* 📊 Attendance tracking
+* 📝 Internal marks monitoring
+* 📚 Assignment management
+* 🎯 Semester performance overview
+
+**Tech Stack:** `Python` `Flask` `MySQL` `AI`
 
 ---
 
 ## 💼 Experience & Activities
 
-- 👩‍💻 Software Development Internship
-- 🏆 Hackathon Participant
-- 🚆 Smart India Hackathon Project Team Member
-- 🎤 Technical Event & Workshop Coordinator
-- 🔧 Git & GitHub Hands-on Session Coordinator
-- 🌱 Active learner in AI, Data Science & Development
+* 👩‍💻 Software Development Internship
+* 🏆 Hackathon Participant
+* 🚆 Smart India Hackathon Project Team Member
+* 🎤 Technical Session & Workshop Coordinator
+* 🔧 Git & GitHub Hands-on Session Coordinator
+* 🤝 Interested in teamwork, innovation and collaborative development
 
 ---
 
@@ -113,9 +148,9 @@ A Python-based computer vision project featuring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anija-S-Madhu&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anija-S-Madhu&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anija-S-Madhu&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anija-S-Madhu&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 
@@ -134,7 +169,7 @@ A Python-based computer vision project featuring:
 ## 🧰 Tools I Use
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,flask,python" />
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,html,css,js" />
 </p>
 
 ---
