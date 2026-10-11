@@ -2,18 +2,18 @@
 
 # Hi 👋, I'm Anija S Madhu
 
-### CSE (Data Science) Student | Developer | AI & Data Science Enthusiast
+### 🎓 CSE (Data Science) Student | Developer | AI & Data Science Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Data+Science+Enthusiast;AI+%26+Machine+Learning+Explorer;Python+%7C+Flask+%7C+MySQL+Developer;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;AI+%26+Machine+Learning+Explorer;Python+%7C+Flask+%7C+MySQL+Developer;Building+Smart+Projects;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p>
-  <a href="https://github.com/Anija-S-Madhu">
-    <img src="https://img.shields.io/github/followers/Anija-S-Madhu?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/Anija-S-Madhu">
-    <img src="https://img.shields.io/github/stars/Anija-S-Madhu?label=Stars&style=for-the-badge&logo=github" />
-  </a>
-</p>
+<br/>
+
+<img src="https://img.shields.io/github/followers/Anija-S-Madhu?label=Followers&style=for-the-badge&logo=github&color=blue" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/Anija-S-Madhu?label=Stars&style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Anija-S-Madhu&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -21,33 +21,40 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 B.Tech Computer Science & Engineering (Data Science) student
-* 💻 Interested in Software Development, Artificial Intelligence and Data Science
-* 🐍 Building applications using Python, Flask and MySQL
-* 🤖 Exploring Machine Learning, Computer Vision and AI-powered applications
-* 🛡️ Interested in cybersecurity, intelligent automation and practical problem-solving
-* 🚀 Enthusiastic about hackathons, technical events and collaborative projects
-* 📚 Always learning, experimenting and building something new
+* 🎓 B.Tech Computer Science & Engineering (Data Science) student.
+* 💻 Interested in Software Development, Artificial Intelligence and Data Science.
+* 🐍 Building applications using Python, Flask and MySQL.
+* 🤖 Exploring Machine Learning, Computer Vision and AI-powered applications.
+* 🛡️ Interested in cybersecurity and intelligent automation.
+* 🚀 Enthusiastic about hackathons, technical events and innovative projects.
+* 📚 Continuously learning new technologies and improving my development skills.
+* 💡 Passionate about turning ideas into practical software solutions.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js" alt="Programming Languages" />
 </p>
 
-### Frameworks & Development Tools
+### ⚙️ Frameworks, Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=flask,mysql,sqlite,git,github,vscode" alt="Frameworks and Tools" />
 </p>
 
-### Areas of Interest
+### 🧠 Areas of Interest
 
-`Artificial Intelligence` · `Machine Learning` · `Data Science` · `Computer Vision` · `Web Development` · `Cybersecurity`
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0078D4?style=for-the-badge" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Computer%20Vision-00A86B?style=for-the-badge" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge" alt="Data Science" />
+<img src="https://img.shields.io/badge/Cybersecurity-DC143C?style=for-the-badge" alt="Cybersecurity" />
+</p>
 
 ---
 
@@ -57,120 +64,123 @@
 
 An AI-powered academic assistance platform designed to help students organize their studies and prepare for examinations.
 
-**Key Features**
+**✨ Key Features**
 
-* 📚 Study planning and subject management
-* 📝 AI-powered question paper generation
-* 🎯 Exam preparation and academic productivity
-* 📊 Study progress tracking
-* 🤖 AI-assisted learning support
+* 📝 AI-powered question paper generation.
+* 📚 Subject and study management.
+* 📅 Academic planning and exam preparation.
+* 📊 Study progress organization.
+* 🤖 AI-assisted learning support.
 
-**Tech Stack:** `Python` `Flask` `SQLite` `Google Gemini API`
+**🛠️ Tech Stack**
+
+`Python` `Flask` `SQLite` `Google Gemini API`
 
 ---
 
 ### 😴 2. Drowsiness Detection & Alert System
 
-A computer vision-based system designed to monitor facial cues and identify potential signs of drowsiness.
+A computer vision-based application designed to detect signs of drowsiness through facial and eye-related features and provide alerts.
 
-**Key Features**
+**✨ Key Features**
 
-* 👁️ Eye and blink monitoring
-* 😴 Drowsiness detection
-* 🚨 Alert mechanism for detected drowsiness
-* 🧑 Facial landmark analysis
-* ⚡ Real-time monitoring capabilities
+* 👁️ Eye and blink monitoring.
+* 😴 Drowsiness detection.
+* 🚨 Alert mechanism when drowsiness is detected.
+* 🧑 Facial landmark analysis.
+* ⚡ Real-time monitoring capabilities.
 
-**Tech Stack:** `Python` `OpenCV` `MediaPipe` `Computer Vision`
+**🛠️ Tech Stack**
+
+`Python` `OpenCV` `MediaPipe` `Computer Vision`
 
 ---
 
-### ⌨️ 3. AI Virtual Keyboard
+### ⌨️ 3. Virtual Keyboard Using Computer Vision
 
-An innovative virtual keyboard concept that enables touch-free computer interaction through hand gestures and computer vision.
+A virtual keyboard concept that enables users to interact with an on-screen keyboard through hand gestures.
 
-**Key Features**
+**✨ Key Features**
 
-* ✋ Hand landmark tracking
-* 👆 Finger gesture recognition
-* ⌨️ Virtual key interaction
-* 🖥️ On-screen keyboard interface
-* ⚡ Touch-free typing interaction
+* ✋ Hand tracking and landmark detection.
+* 👆 Finger gesture recognition.
+* ⌨️ Virtual key interaction.
+* 🖥️ On-screen keyboard interface.
+* 🚀 Touch-free typing interaction.
 
-**Tech Stack:** `Python` `OpenCV` `MediaPipe` `Computer Vision`
+**🛠️ Tech Stack**
+
+`Python` `OpenCV` `MediaPipe` `Computer Vision`
 
 ---
 
 ### 🛡️ 4. Cybersecurity Log Analysis Using Hadoop
 
-A big-data cybersecurity project that analyzes the UNSW-NB15 network traffic dataset using K-Means clustering to identify network activity patterns and potential anomalies.
+A big-data cybersecurity project that analyzes the UNSW-NB15 network traffic dataset using K-Means clustering to discover network activity patterns and identify potential anomalies.
 
-**Key Features**
+**✨ Key Features**
 
-* 📂 Network traffic dataset analysis
-* 🧮 K-Means clustering for pattern discovery
-* 🔍 Cluster-based anomaly analysis
-* 🐘 Hadoop and HDFS integration
-* 📊 Web-based cybersecurity monitoring dashboard
+* 📂 Network traffic dataset analysis.
+* 🧮 K-Means clustering for pattern discovery.
+* 🔍 Cluster-based anomaly analysis.
+* 🐘 Hadoop and HDFS integration.
+* 📊 Web-based cybersecurity monitoring dashboard.
+* 🚨 Visualization of suspicious network activity.
 
-**Tech Stack:** `Python` `Pandas` `Scikit-learn` `Hadoop` `HDFS` `MapReduce` `Flask`
+**🛠️ Tech Stack**
+
+`Python` `Pandas` `Scikit-learn` `K-Means` `Hadoop` `HDFS` `MapReduce` `Flask`
 
 ---
 
 ### 📊 5. AI Semester Survival Dashboard
 
-A student-focused academic dashboard designed to organize semester activities and help monitor academic performance.
+A student-focused academic dashboard designed to organize semester activities and monitor academic progress.
 
-**Key Features**
+**✨ Key Features**
 
-* 📅 Exam calendar and academic planning
-* 📊 Attendance tracking
-* 📝 Internal marks monitoring
-* 📚 Assignment management
-* 🎯 Semester performance overview
+* 📅 Exam calendar and academic planning.
+* 📊 Attendance tracking.
+* 📝 Internal marks monitoring.
+* 📚 Assignment management.
+* 🎯 Semester performance overview.
 
-**Tech Stack:** `Python` `Flask` `MySQL` `AI`
+**🛠️ Tech Stack**
+
+`Python` `Flask` `MySQL`
 
 ---
 
 ## 💼 Experience & Activities
 
-* 👩‍💻 Software Development Internship
-* 🏆 Hackathon Participant
-* 🚆 Smart India Hackathon Project Team Member
-* 🎤 Technical Session & Workshop Coordinator
-* 🔧 Git & GitHub Hands-on Session Coordinator
-* 🤝 Interested in teamwork, innovation and collaborative development
+* 👩‍💻 Software Development Internship.
+* 🏆 Hackathon Participant.
+* 🚆 Smart India Hackathon Project Team Member.
+* 🎤 Technical Session and Workshop Coordinator.
+* 🔧 Git & GitHub Hands-on Session Coordinator.
+* 🤝 Interested in teamwork, innovation and collaborative development.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anija-S-Madhu&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anija-S-Madhu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anija-S-Madhu&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anija-S-Madhu&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Anija-S-Madhu&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Anija-S-Madhu&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
-
----
-
-## 🧰 Tools I Use
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,html,css,js" />
-</p>
 
 ---
 
@@ -178,7 +188,17 @@ A student-focused academic dashboard designed to organize semester activities an
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anija-S-Madhu&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anija-S-Madhu&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🧰 Tools I Use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite,git,github,vscode,html,css,js" alt="Development Tools" />
 
 </div>
 
@@ -186,25 +206,15 @@ A student-focused academic dashboard designed to organize semester activities an
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Anija-S-Madhu">
-<img src="https://img.shields.io/badge/GitHub-Anija--S--Madhu-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Anija--S--Madhu-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
-
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Anija-S-Madhu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -212,6 +222,8 @@ A student-focused academic dashboard designed to organize semester activities an
 
 <div align="center">
 
-### ✨ Building. Learning. Exploring. Growing. 🚀
+### 💫 Building the Future, One Project at a Time.
+
+**✨ Building • Learning • Exploring • Growing 🚀**
 
 </div>
