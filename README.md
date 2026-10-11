@@ -183,12 +183,11 @@ A student-focused academic dashboard designed to organize semester activities an
 </div>
 
 ---
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anija-S-Madhu&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anija-S-Madhu&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
