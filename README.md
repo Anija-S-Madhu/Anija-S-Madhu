@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Anija-S-Madhu&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Anija-S-Madhu&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
