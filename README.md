@@ -60,7 +60,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 1. NOVA — AI Study Planner & Question Paper Generator
+### 🧠 1. NOVA — AI Study Planner
 
 An AI-powered academic assistance platform designed to help students organize their studies and prepare for examinations.
 
