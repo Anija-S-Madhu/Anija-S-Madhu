@@ -195,22 +195,23 @@ A student-focused academic dashboard designed to organize semester activities an
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <div align="center">
 
-<a href="https://github.com/Anija-S-Madhu">
+<a href="https://github.com/Anija-S-Madhu" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Anija--S--Madhu-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/anija-s-madhu-888a92333" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
+<a href="https://www.instagram.com/aniii.jaaa" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
 </div>
-
----
-
-<div align="center">
-
 ### 💫 Building the Future, One Project at a Time.
 
 **✨ Building • Learning • Exploring • Growing 🚀**
