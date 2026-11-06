@@ -164,11 +164,23 @@ A student-focused academic dashboard designed to organize semester activities an
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anija-S-Madhu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Anija-S-Madhu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anija-S-Madhu&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anija-S-Madhu&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Anija-S-Madhu&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
