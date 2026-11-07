@@ -53,7 +53,6 @@
 <img src="https://img.shields.io/badge/Machine%20Learning-0078D4?style=for-the-badge" alt="Machine Learning" />
 <img src="https://img.shields.io/badge/Computer%20Vision-00A86B?style=for-the-badge" alt="Computer Vision" />
 <img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge" alt="Data Science" />
-<img src="https://img.shields.io/badge/Cybersecurity-DC143C?style=for-the-badge" alt="Cybersecurity" />
 </p>
 
 ---
@@ -161,8 +160,6 @@ A student-focused academic dashboard designed to organize semester activities an
 * 🤝 Interested in teamwork, innovation and collaborative development.
 
 ---
-
-## 📊 GitHub Statistics
 
 ## 📊 GitHub Statistics
 
