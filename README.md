@@ -204,8 +204,6 @@ A student-focused academic dashboard designed to organize semester activities an
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 <div align="center">
 
 <a href="https://github.com/Anija-S-Madhu" target="_blank">
